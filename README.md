@@ -6,17 +6,17 @@
   <img src="./image/overview_arn.png" width="80%" height="64%">
 </p>
 
-The Official Repository of the paper **"Multitask Deep Learning for Joint Detection of Necrotizing Viral and Noninfectious Retinitis From Common Blood and Serology Test Data"**.\
+The Official Repository of the paper **"Multitask Deep Learning for Joint Detection of Necrotizing Viral and Noninfectious Retinitis From Common Blood and Serology Test Data"**.
 
 This paper is accepted to **IOVS (Investigative Ophthalmology & Visual Science) 2024** (Q1; I.F. = 5.0).\
-Authors: Kai Tzu-iunn Ong; Taeyoon Kwon; Harok Jang; Min Kim; Christopher Seungkyu Lee; Suk Ho Byeon; Sung Soo Kim; Jinyoung Yeo; Eun Young Choi\
+Authors: Kai Tzu-iunn Ong; Taeyoon Kwon; Harok Jang; Min Kim; Christopher Seungkyu Lee; Suk Ho Byeon; Sung Soo Kim; Jinyoung Yeo; Eun Young Choi
 
 Paper Link: https://iovs.arvojournals.org/Article.aspx?articleid=2793342
 
 ## Data
 
 Due to privacy and ethical issues, we cannot share participant data here.\
-However, since adopted clinical features are listed in our paper, you are able to accordingly prepare your collected blood data for implementation.\
+However, since adopted clinical features are listed in our paper, you are able to accordingly prepare your collected blood data for implementation.
 
 Questions regarding accessing our data should be directed to the co-corresponding author: Eun Young Choi (eychoi@yuhs.ac).
 

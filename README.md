@@ -2,6 +2,8 @@
 
 ---
 
+![plot](/home/kai/nas/kai/ARN_OFFICIAL/Multitask_DeepLearning/image/models.png)
+
 The Official Repository of the paper **"Multitask Deep Learning for Joint Detection of Necrotizing Viral and Noninfectious Retinitis From Common Blood and Serology Test Data"**.\
 
 This paper is accepted to **IOVS (Investigative Ophthalmology & Visual Science) 2024** (Q1; I.F. = 5.0).\

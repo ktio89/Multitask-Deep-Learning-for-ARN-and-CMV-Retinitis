@@ -22,6 +22,9 @@ Questions regarding accessing our data should be directed to the co-correspondin
 
 ## Requirements
 
+Make sure PyTorch (>= 1.8.0) installed.
+We used 1 NVIDIA RTX A5000 GPU to run the experiments.
+
 ## Implementations
 
 - **utils/dataset.py**: Once you finished preparing your own data or obtained data from us, use this to prepare the data for training/testing.

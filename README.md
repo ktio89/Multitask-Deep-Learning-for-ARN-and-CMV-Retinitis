@@ -2,7 +2,9 @@
 
 ---
 
-![plot](/home/kai/nas/kai/ARN_OFFICIAL/Multitask_DeepLearning/image/models.png)
+<p align="center">
+  <img src="./image/Multitask_DeepLearning/image/overview_arn.png" width="100%" height="80%">
+</p>
 
 The Official Repository of the paper **"Multitask Deep Learning for Joint Detection of Necrotizing Viral and Noninfectious Retinitis From Common Blood and Serology Test Data"**.\
 

@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="./image/overview_arn.png" width="100%" height="80%">
+  <img src="./image/overview_arn.png" width="80%" height="64%">
 </p>
 
 The Official Repository of the paper **"Multitask Deep Learning for Joint Detection of Necrotizing Viral and Noninfectious Retinitis From Common Blood and Serology Test Data"**.\
